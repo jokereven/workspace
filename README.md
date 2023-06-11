@@ -23,7 +23,7 @@ jokereven's tools for side-projects.
 ### Streaming and Video Editing
 
 - OBS Studio
-- Epidemic Sound - Music for videos
+- KeyCastOW - Keypresses visualizer
 
 ### Entertainment
 
