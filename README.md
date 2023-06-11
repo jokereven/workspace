@@ -1,39 +1,21 @@
 # Workspace
 
-Diu's tools for side-projects.
+jokereven's tools for side-projects.
 
 ## Hardware: Things on my desk
 
-- Mac Mini M1 (16GB)
-- iPad Pro (2020) + Apple Pencil
-- AOC 27" 4K Monitor
-- C-FORCE 15.6" 1080p Portable Monitor
-- Niz Micro84 EC-Bluetooth 35g Keyboard
-- NuPhy Halo65 KeyBoard (KTT Cabbage Tofu Switch, 白菜豆腐轴)
-- Logitech MX Master 3
-- Apple Magic Trackpad
-- Rode PodMic
-- Nintendo Switch
-- HomePod Mini
-- Sony WH-1000XM3 Headphones
-- JBL PS2200 Speaker
-- Razer Kiyo Webcam
-- Belkin 2-in-1 Wireless Charger
-- Elgato Stream Deck
-- Elgato Wave XLR
+- IdeaPad 14sARE 2020 (20GB+256GB)
+- CIY Tester 68 Keyboard
 
 ## Software & Website
 
 ### Coding
 
 - Visual Studio Code - See also [ddiu8081/vscode-settings](https://github.com/ddiu8081/vscode-settings)
-- Warp
-- fish shell
 
 ### Designing
 
 - Figma
-- Procreate on iPad
 - Pinterest
 - [Icones](https://icones.netlify.app/)
 - [Color Hunt](https://colorhunt.co/)
@@ -41,15 +23,7 @@ Diu's tools for side-projects.
 ### Streaming and Video Editing
 
 - OBS Studio
-- Keystroke Pro - Keypresses visualizer
 - Epidemic Sound - Music for videos
-- Final Cut Pro
-- Motion
-- Compressor
-- LumaFusion on iPad
-- CleanShot X
-- Screen Studio
-
 
 ### Entertainment
 
